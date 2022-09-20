@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513414163024",
+    "firebase_url": "https://oleng-company-default-rtdb.firebaseio.com",
+    "project_id": "oleng-company",
+    "storage_bucket": "oleng-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513414163024:android:77f375fdcbe13bb5b2bf55",
+        "android_client_info": {
+          "package_name": "com.example.olengcompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513414163024-150o3r5ubefegr2glb4i42r01ghoon1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFntvs4FMwtABFe-5WimiRymBE0QI09Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513414163024-150o3r5ubefegr2glb4i42r01ghoon1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
